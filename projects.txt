@@ -1,0 +1,18 @@
+step name               What we'll Do
+
+
+
+Load the data           Read the csv file using Pandas.
+
+Clean the data          Handle Missing Values, remove duplicates, fix columns 
+                        if needed.
+
+Understand the data     Use head(), info(), describe(), to explore the dataset.
+
+Identify quetions to    what do we want to know?(E.g., Movies vs Tv shows, content
+answer                  ratings, etc.)
+
+Visulize the data       Use Metplotlib to draw charts and answer these quetions
+(EDA)                   visually
+
+Save the plots          Use plt.savefig() for your reports.
